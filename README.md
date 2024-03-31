@@ -1,1 +1,1 @@
-# Indian_agricultural_analysis_dashboard
+This Project is part of internship at Mentorness.
